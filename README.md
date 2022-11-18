@@ -1,8 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/IMARCII/instagram-bio-updater">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Instagram Biography Updater</h3>
 
