@@ -1,0 +1,21 @@
+{
+  "name": "instagram-bio-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "updater.js",
+  "scripts": {
+    "start": "node .",
+    "always": "pm2 start updater.js --name bio-updater",
+    "check": "pm2 logs bio-updater",
+    "stop": "pm2 stop bio-updater"
+  },
+  "author": "marcell",
+  "homepage": "https://soaps.dev",
+  "license": "ISC",
+  "dependencies": {
+    "emoji-random-list": "^1.1.3",
+    "instagram-private-api": "^1.45.3",
+    "node-cron": "^3.0.2",
+    "pm2": "^5.2.2"
+  }
+}

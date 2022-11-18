@@ -1,0 +1,11 @@
+{
+    "instagram": {
+        "username": "JohnDoe",
+        "password": "JohnDoe",
+        "biography": "#emoji##age# years old"
+    },
+    "birthday": "2000-01-01",
+    "emojiType": "Activities",
+    "ageDigits": "3",
+    "updateTime": "*/5 * * * *"
+}
